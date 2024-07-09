@@ -1,3 +1,3 @@
 # InvestX
 
-- Author- Sachidanand Navik ( 220929 )
+- Author- Rachit Choudhary ( 220845 )
